@@ -2,7 +2,6 @@
 
 Welcome to my journey of learning how to build a Large Language Model (LLM) from scratch! This project follows the book **"Build a Large Language Model (From Scratch)" by Sebastian Raschka** and explores each chapter through hands-on implementation.
 
-![LLM Animation](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
 
 ---
 
