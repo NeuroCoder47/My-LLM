@@ -41,7 +41,9 @@ This repository is a step-by-step exploration of how to build an LLM using Pytho
 ### Chapter 4: Building a Simplified GPT Model 🧩
 - **Goal**: Implement a `DummyGPTModel` class using PyTorch.
 - **Key Takeaway**: Understand the architecture of GPT models and how they process input.
-
+### Chapter 4: Building a Simplified GPT Model 🧩
+- **Goal**: Pretrain a 125 million pm. Gpt 2 model from scratch
+- **Key Takeaway**: Pre trained a 125 million parameter gpt 2 model from scratch, and also made essential optimization for better scaling.
 ---
 
 ## Learning Goals 🎯
