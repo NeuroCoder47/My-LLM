@@ -44,7 +44,7 @@ This repository is a step-by-step exploration of how to build an LLM using Pytho
 ### Chapter 5: Building a Simplified GPT Model 🧩
 - **Goal**: Pretrain a 125 million pm. Gpt 2 model from scratch
 - **Key Takeaway**: Pre trained a 125 million parameter gpt 2 model from scratch, and also made essential optimization for better scaling.
-  ### Chapter 5.1: Building a Simplified GPT Model 🧩
+### Chapter 5.1: Building a Simplified GPT Model 🧩
 - **Goal**: Pretrain a 125 million pm. Gpt 2 model from scratch
 - **Key Takeaway**: Pre trained a 125 million parameter gpt 2 model from scratch,but it has no explanation and it was trained on dataset that has short stories, the only problem is that it is overfitting.
 ---
